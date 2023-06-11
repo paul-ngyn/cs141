@@ -1,1 +1,1 @@
-# cs141
+# CS141 Edit Distance Algorithm
